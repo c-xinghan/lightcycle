@@ -1,0 +1,7 @@
+Welcome! Please choose a game (or type 'exit' to quit): 
+Tic Tac Toe|TicTacToe.main()
+Hangman|Hangman.main()
+Rock, Paper, Scissors|RockPaperScissors.main()
+Blackjack|Blackjack.main()
+Light Cycle|LightCycle.main()
+Space Invaders|SpaceInvaders.main()
