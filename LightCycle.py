@@ -151,7 +151,7 @@ def main():
     # setup turtle
     turtle.TurtleScreen._RUNNING = True
     s, t = turtle.Screen(), turtle.Turtle()
-    s.setup(res, res, 300, 0)
+    s.setup(res, res, 360, 0)
     s.bgcolor("black")
     t.hideturtle()
     s.tracer(False)
