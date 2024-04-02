@@ -157,6 +157,7 @@ def main():
     s.tracer(False)
     draw_square(res-res*0.05, "orange", -(res/2)+res*0.02, (res/2)-res*0.02, False)
     s.listen()
+    YO MOTHER 
 
     # define controls
     s.onkey(lambda: p1_dir.rotate("up"), 'w')
@@ -174,3 +175,5 @@ def main():
     s.mainloop()
 
 # main()
+
+YO MOTHER 
