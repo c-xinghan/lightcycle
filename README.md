@@ -1,4 +1,4 @@
-# *LightCycle* - a 10.014 (Computational Thinking for Design) 1D project
+# *LightCycle*
 Replica of the [Tron arcade game](https://en.wikipedia.org/wiki/Tron_(video_game)).
 
 https://github.com/c-xinghan/lightcycle/assets/23093512/2369ee9c-8aa5-488c-848f-28ef1dd77031
